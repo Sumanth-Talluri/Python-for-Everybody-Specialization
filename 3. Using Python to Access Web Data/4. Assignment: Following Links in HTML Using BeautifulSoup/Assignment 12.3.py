@@ -25,4 +25,5 @@ while current_repeat_count < repeat_count:
         else:
             continue
     current_repeat_count += 1
+    
 print('Last Url: ', url)
