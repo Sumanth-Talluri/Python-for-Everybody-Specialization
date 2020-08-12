@@ -1,8 +1,8 @@
 import re
 
 sum = 0
-
 file = open('regex_sum_97406.txt', 'r')
+
 for line in file:
     numbers = re.findall('[0-9]+', line)
     if not numbers:
