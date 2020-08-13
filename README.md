@@ -17,7 +17,7 @@ Each course described above contains assignments answers and course material.
 ### Additional materials
 
 All additional course materials can be found [here](https://www.py4e.com/).  
-Also [here](https://www.py4e.com/html3/) is the link to the HTML version of Charles R. Severance book.
+The HTML version of Charles R. Severance book can be found [here](https://www.py4e.com/html3/).
 
 :computer: &nbsp; **View Course [here](https://www.coursera.org/specializations/python?)**
 
