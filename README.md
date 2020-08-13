@@ -1,6 +1,6 @@
 # Python for Everybody Specialization
 
-This repository contains solutions to all the assignments I submitted in the **Python for Everybody specialization** offered by **University of Michigan**
+This repository contains my submissions to all the assignments of **Python for Everybody Specialization** in Coursera offered by the **University of Michigan**.
 
 ## Overview
 
