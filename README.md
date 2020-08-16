@@ -29,10 +29,6 @@ The HTML version of Charles R. Severance book can be found [here](https://www.py
 
 Contributions are always welcome! Please create a PR to contribute.
 
-### :pencil: &nbsp; License
-
-This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
-
 ### :man_astronaut: &nbsp; Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if this helped you!
