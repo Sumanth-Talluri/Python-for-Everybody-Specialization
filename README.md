@@ -22,3 +22,17 @@ The HTML version of Charles R. Severance book can be found [here](https://www.py
 :computer: &nbsp; **View Course [here](https://www.coursera.org/specializations/python?)**
 
 :star: &nbsp; **View my Certificate [here](https://coursera.org/share/34b608542122fb46db3629cad073741b)**
+
+&nbsp;
+
+### Contribute
+
+Contributions are always welcome! Please create a PR to contribute.
+
+### :pencil: &nbsp; License
+
+This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
+
+### :man_astronaut: &nbsp; Show your support
+
+Give a ⭐️ if this project helped you!
